@@ -19,5 +19,5 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aagam-shah-09285a266/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aagam-shah-09285a266/" height="30" width="110" /></a>
+<a href="https://www.linkedin.com/in/aagam-shah-09285a266/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aagam-shah-09285a266/" height="30" width="110" /></a>
 </p>
