@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Aagam Shah 👋</h1>
 
-- I am 2nd year Computer Science student at Nirma University
-- I am a competitive programmer, starting my journey of web development 
+- I am 2nd year Computer Science student at Nirma University.
+- I am a competitive programmer, starting my journey of web development.
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
